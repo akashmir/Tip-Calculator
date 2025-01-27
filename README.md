@@ -66,4 +66,4 @@ You rock! 🌟 Don't forget to leave a tip the next time you're out. 💸
 
 ---
 
-You can always adjust the tone to match your personality or the vibe you want for the project. Adding fun emojis and keeping it lively can make your README stand out while still providing clear instructions.
+Disclaimer - This README.md is written from chatgpt
